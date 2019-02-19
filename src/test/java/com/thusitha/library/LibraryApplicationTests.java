@@ -1,4 +1,4 @@
-package com.thusitha.library.Library;
+package com.thusitha.library;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
